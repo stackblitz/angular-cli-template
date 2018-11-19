@@ -1,6 +1,6 @@
 # {BLITZ_PROJECT_SLUG}
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.
 
 ## Development server
 
